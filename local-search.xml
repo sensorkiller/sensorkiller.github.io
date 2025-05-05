@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Week 45</title>
+    <link href="/2024/11/10/2024/Week45/"/>
+    <url>/2024/11/10/2024/Week45/</url>
+    
+    <content type="html"><![CDATA[<p>Alles wird gut</p><span id="more"></span><p><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week45_movie.jpg"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Week 44</title>
+    <link href="/2024/11/03/2024/Week44/"/>
+    <url>/2024/11/03/2024/Week44/</url>
+    
+    <content type="html"><![CDATA[<p>You don’t need anyone else. You do it yourself.</p><span id="more"></span><p><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week43_movie.jpg"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Week 42</title>
+    <link href="/2024/10/20/2024/Week42/"/>
+    <url>/2024/10/20/2024/Week42/</url>
+    
+    <content type="html"><![CDATA[<p>Nothing is ever lost, or can be lost.</p><span id="more"></span><p><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week42_movie.jpg"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Week 41</title>
+    <link href="/2024/10/13/2024/Week41/"/>
+    <url>/2024/10/13/2024/Week41/</url>
+    
+    <content type="html"><![CDATA[<p>红河里有两条鱼</p><span id="more"></span><p><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week41_movie.jpg"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Week 40</title>
+    <link href="/2024/10/06/2024/Week40/"/>
+    <url>/2024/10/06/2024/Week40/</url>
+    
+    <content type="html"><![CDATA[<p>相遇总是伴随着别离，恋爱就像宴席终会散去。</p><span id="more"></span><p><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week40_movie.jpg"><br><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week40_rizhao.jpg"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Week 39</title>
+    <link href="/2024/09/29/2024/Week39/"/>
+    <url>/2024/09/29/2024/Week39/</url>
+    
+    <content type="html"><![CDATA[<p>Paris is a city for lovers: lovers of art, lovers of history, lovers of food, lovers of…love.</p><span id="more"></span><p><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week39_movie.jpg"><br><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week39_photo.jpg"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Week 38</title>
+    <link href="/2024/09/22/2024/Week38/"/>
+    <url>/2024/09/22/2024/Week38/</url>
+    
+    <content type="html"><![CDATA[<p>We’re just like everyone else. </p><span id="more"></span><p><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week38_movie.jpg"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Week 37</title>
+    <link href="/2024/09/18/2024/Week37/"/>
+    <url>/2024/09/18/2024/Week37/</url>
+    
+    <content type="html"><![CDATA[<p>“我们时常感到春风沉醉，却忘了我们仍在夜里” ——我爱你。</p><span id="more"></span><p><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week37_movie.jpg"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Week 36</title>
+    <link href="/2024/09/08/2024/Week36/"/>
+    <url>/2024/09/08/2024/Week36/</url>
+    
+    <content type="html"><![CDATA[<p>But at the end of the day, it’s not the love of one other person that matters it’s the love of life.</p><span id="more"></span><p><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week36_movie.jpg"><br><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week36_music1.jpg"><br><img src="https://raw.githubusercontent.com/sensorkiller/blog_img/master/week36_music2.jpg"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>如何基于Hexo与GitHub Pages搭建个人博客</title>
+    <link href="/2024/08/31/%E5%A6%82%E4%BD%95%E5%9F%BA%E4%BA%8EHexo%E4%B8%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2024/08/31/%E5%A6%82%E4%BD%95%E5%9F%BA%E4%BA%8EHexo%E4%B8%8EGitHub-Pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<p>简单介绍本站的主要配置步骤</p><span id="more"></span><h1 id="1-环境配置"><a href="#1-环境配置" class="headerlink" title="1 环境配置"></a>1 环境配置</h1><ul><li><a href="https://git-scm.com/">Git</a></li><li><a href="https://nodejs.org/zh-cn/download/prebuilt-installer">Node.js</a></li></ul><p>安装完成后可通过以下命令检测安装版本，确认是否安装成功</p><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs crmsh">$ git -v<br>$ <span class="hljs-keyword">node</span> <span class="hljs-title">-v</span><br></code></pre></td></tr></table></figure><h1 id="2-Hexo"><a href="#2-Hexo" class="headerlink" title="2 Hexo"></a>2 Hexo</h1><h2 id="2-1-安装"><a href="#2-1-安装" class="headerlink" title="2.1 安装"></a>2.1 安装</h2><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs avrasm">$ npm install -g hexo-<span class="hljs-keyword">cli</span><br></code></pre></td></tr></table></figure><p>检测安装版本，确认是否安装成功</p><figure class="highlight crystal"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs crystal"><span class="hljs-variable">$ </span>hexo -v<br></code></pre></td></tr></table></figure><h2 id="2-2-建站"><a href="#2-2-建站" class="headerlink" title="2.2 建站"></a>2.2 建站</h2><ol><li>本地新建一个文件夹用于存放博客数据（如：<code>C:\Users\***\Documents\Blog</code>）</li><li>初始化博客，新建的文件夹目录下打开终端，执行如下命令</li></ol><figure class="highlight crystal"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs crystal"><span class="hljs-variable">$ </span>hexo init<br><span class="hljs-variable">$ </span>npm install<br></code></pre></td></tr></table></figure><p>初始化后，文件夹内将生成如下内容：</p><figure class="highlight 1c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs 1c">.<br>├── _config.yml             <span class="hljs-meta"># 网站配置文件</span><br>├── package.json            <span class="hljs-meta"># 应用程序信息</span><br>├── scaffolds               <span class="hljs-meta"># 模版文件夹</span><br>├── source                  <span class="hljs-meta"># 资源文件夹</span><br><span class="hljs-string">|   ├── _drafts</span><br><span class="hljs-string">|   └── _posts</span><br>└── themes                  <span class="hljs-meta"># 主题文件夹</span><br></code></pre></td></tr></table></figure><h2 id="2-3-Fluid主题设置"><a href="#2-3-Fluid主题设置" class="headerlink" title="2.3 Fluid主题设置"></a>2.3 Fluid主题设置</h2><h3 id="2-3-1-获取主题"><a href="#2-3-1-获取主题" class="headerlink" title="2.3.1 获取主题"></a>2.3.1 获取主题</h3><p>进入博客目录执行命令：</p><figure class="highlight ada"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs ada">npm install <span class="hljs-comment">--save hexo-theme-fluid</span><br></code></pre></td></tr></table></figure><p>然后在博客目录下创建 _config.fluid.yml，将主题的<a href="https://github.com/fluid-dev/hexo-theme-fluid/blob/master/_config.yml">_config.yml</a>内容复制进去。</p><h3 id="2-3-2-指定主题"><a href="#2-3-2-指定主题" class="headerlink" title="2.3.2 指定主题"></a>2.3.2 指定主题</h3><p>如下修改Hexo博客目录中的<code>_config.yml</code>：</p><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs avrasm"><span class="hljs-symbol">theme:</span> fluid  <span class="hljs-meta"># 指定主题</span><br><br><span class="hljs-symbol">language:</span> <span class="hljs-built_in">zh</span>-CN  <span class="hljs-meta"># 指定语言，会影响主题显示的语言，按需修改</span><br></code></pre></td></tr></table></figure><h3 id="2-3-3-创建「关于页」"><a href="#2-3-3-创建「关于页」" class="headerlink" title="2.3.3 创建「关于页」"></a>2.3.3 创建「关于页」</h3><p>首次使用主题的「关于页」需要手动创建：</p><figure class="highlight actionscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs actionscript">hexo <span class="hljs-keyword">new</span> page about<br></code></pre></td></tr></table></figure><p>创建成功后，编辑博客目录下 &#x2F;source&#x2F;about&#x2F;index.md，添加 layout 属性。<br>修改后的文件示例如下：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-meta">---</span><br><span class="hljs-attr">title:</span> <span class="hljs-string">about</span><br><span class="hljs-attr">layout:</span> <span class="hljs-string">about</span><br><span class="hljs-meta">---</span><br><span class="hljs-meta"></span><br><span class="hljs-string">这里写关于页的正文，支持</span> <span class="hljs-string">Markdown,</span> <span class="hljs-string">HTML</span><br></code></pre></td></tr></table></figure><h2 id="2-4-Fluid主题配置-1"><a href="#2-4-Fluid主题配置-1" class="headerlink" title="2.4 Fluid主题配置[1]"></a>2.4 Fluid主题配置<sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="[Hexo Fluid 用户手册](https://hexo.fluid-dev.com/docs/)">[1]</span></a></sup></h2><h3 id="2-4-1-全局"><a href="#2-4-1-全局" class="headerlink" title="2.4.1 全局"></a>2.4.1 全局</h3><h4 id="页面顶部大图"><a href="#页面顶部大图" class="headerlink" title="页面顶部大图"></a>页面顶部大图</h4><p>指向外站链接：</p><figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs dts"><span class="hljs-symbol">banner_img:</span> https:<span class="hljs-comment">//static.zkqiang.cn/example.jpg</span><br></code></pre></td></tr></table></figure><h4 id="展示PV与UV统计数据"><a href="#展示PV与UV统计数据" class="headerlink" title="展示PV与UV统计数据"></a>展示PV与UV统计数据</h4><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-comment"># 展示网站的 PV、UV 统计数</span><br>  <span class="hljs-comment"># Display website PV and UV statistics</span><br>  <span class="hljs-attr">statistics:</span><br>    <span class="hljs-attr">enable:</span> <span class="hljs-literal">true</span><br><br>    <span class="hljs-comment"># 统计数据来源，使用 leancloud, umami 需要设置 `web_analytics` 中对应的参数；使用 busuanzi 不需要额外设置，但是有时不稳定，另外本地运行时 busuanzi 显示统计数据很大属于正常现象，部署后会正常</span><br>    <span class="hljs-comment"># Data source. If use leancloud, umami, you need to set the parameter in `web_analytics`</span><br>    <span class="hljs-comment"># Options: busuanzi | leancloud | umami</span><br>    <span class="hljs-attr">source:</span> <span class="hljs-string">&quot;busuanzi&quot;</span><br></code></pre></td></tr></table></figure><h3 id="2-4-2-首页"><a href="#2-4-2-首页" class="headerlink" title="2.4.2 首页"></a>2.4.2 首页</h3><h4 id="Slogan"><a href="#Slogan" class="headerlink" title="Slogan"></a>Slogan</h4><p>设置通过API随机获取<a href="https://rainbow.eatrice.top/">Rainbow</a>英文句子：</p><figure class="highlight autoit"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><code class="hljs autoit">slogan:<br>    enable: <span class="hljs-literal">true</span><br><br>    <span class="hljs-meta"># 为空则按 hexo config.subtitle 显示</span><br>    <span class="hljs-meta"># If empty, text based on `subtitle` in hexo config</span><br>    text: <span class="hljs-string">&quot;言天下之至动而不可乱也&quot;</span><br><br>    <span class="hljs-meta"># 通过 API 接口作为首页副标题的内容，必须返回的是 JSON 格式，如果请求失败则按 text 字段显示，该功能必须先开启 typing 打字机功能</span><br>    <span class="hljs-meta"># Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation</span><br>    api:<br>      enable: <span class="hljs-literal">true</span><br><br>      <span class="hljs-meta"># 请求地址</span><br>      <span class="hljs-meta"># Request url</span><br>      url: <span class="hljs-string">&quot;https://api.eatrice.top/reading/&quot;</span><br><br>      <span class="hljs-meta"># 请求方法</span><br>      <span class="hljs-meta"># Request method</span><br>      <span class="hljs-meta"># Available: GET | POST | PUT</span><br>      method: <span class="hljs-string">&quot;GET&quot;</span><br><br>      <span class="hljs-meta"># 请求头</span><br>      <span class="hljs-meta"># Request headers</span><br>      headers: &#123;&#125;<br><br>      <span class="hljs-meta"># 从请求结果获取字符串的取值字段，最终必须是一个字符串，例如返回结果为 &#123;<span class="hljs-string">&quot;data&quot;</span>: &#123;<span class="hljs-string">&quot;author&quot;</span>: <span class="hljs-string">&quot;fluid&quot;</span>, <span class="hljs-string">&quot;content&quot;</span>: <span class="hljs-string">&quot;An elegant theme&quot;</span>&#125;&#125;, 则取值字段为 [<span class="hljs-string">&#x27;data&#x27;</span>, <span class="hljs-string">&#x27;content&#x27;</span>]；如果返回是列表则自动选择第一项</span><br>      <span class="hljs-meta"># The value field of the string obtained from the response. For example, the response content is &#123;<span class="hljs-string">&quot;data&quot;</span>: &#123;<span class="hljs-string">&quot;author&quot;</span>: <span class="hljs-string">&quot;fluid&quot;</span>, <span class="hljs-string">&quot;content&quot;</span>: <span class="hljs-string">&quot;An elegant theme&quot;</span>&#125;&#125;, the expected `keys: [<span class="hljs-string">&#x27;data&#x27;</span>,<span class="hljs-string">&#x27;content&#x27;</span>]`<span class="hljs-comment">; if the return is a list, the first item is automatically selected</span></span><br>      keys: [<span class="hljs-string">&#x27;Content&#x27;</span>]<br></code></pre></td></tr></table></figure><h3 id="2-4-3-文章页"><a href="#2-4-3-文章页" class="headerlink" title="2.4.3 文章页"></a>2.4.3 文章页</h3><h4 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h4><p>脚注语法如下：</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs markdown">这是一句话[^1]<br>[<span class="hljs-symbol">^1</span>]: <span class="hljs-link">这是对应的脚注</span><br></code></pre></td></tr></table></figure><p>通过修改<code>_config.fluid.yml</code>文件中<code>footnote</code>项<code>header</code>自动在文末加入节标题，如下所示：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">post:</span><br>  <span class="hljs-attr">footnote:</span><br>    <span class="hljs-attr">enable:</span> <span class="hljs-literal">true</span><br>    <span class="hljs-attr">header:</span> <span class="hljs-string">&#x27;&lt;h2&gt;参考&lt;/h2&gt;&#x27;</span>  <span class="hljs-comment"># 等同于手动写 `## 参考`</span><br></code></pre></td></tr></table></figure><h3 id="2-4-4-归档页"><a href="#2-4-4-归档页" class="headerlink" title="2.4.4 归档页"></a>2.4.4 归档页</h3><h3 id="2-4-5-分类页"><a href="#2-4-5-分类页" class="headerlink" title="2.4.5 分类页"></a>2.4.5 分类页</h3><h3 id="2-4-6-标签页"><a href="#2-4-6-标签页" class="headerlink" title="2.4.6 标签页"></a>2.4.6 标签页</h3><h3 id="2-4-7-关于页"><a href="#2-4-7-关于页" class="headerlink" title="2.4.7 关于页"></a>2.4.7 关于页</h3><h1 id="3-部署到GitHub-2"><a href="#3-部署到GitHub-2" class="headerlink" title="3 部署到GitHub[2]"></a>3 部署到GitHub<sup id="fnref:2" class="footnote-ref"><a href="#fn:2" rel="footnote"><span class="hint--top hint--rounded" aria-label="[在 GitHub Pages 上部署 Hexo](https://hexo.fluid-dev.com/docs/)">[2]</span></a></sup></h1><ol><li><p>创建GitHub Pages</p><ul><li>新建名为<code>&lt;user&gt;.github.io</code>的公开仓库</li></ul></li><li><p>安装<code>hexo-deployer-git</code></p><figure class="highlight ada"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs ada">$ npm install hexo-deployer-git <span class="hljs-comment">--save</span><br></code></pre></td></tr></table></figure></li><li><p>编辑<code>_config.yml</code>（示例值如下所示）：</p><figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs dts"><span class="hljs-symbol">deploy:</span><br><span class="hljs-symbol">  type:</span> git<br><span class="hljs-symbol">  repo:</span> git@github.com:<span class="hljs-params">&lt;用户名&gt;</span>/<span class="hljs-params">&lt;仓库名&gt;</span>.github.io.git<br><span class="hljs-symbol">  branch:</span> main<br></code></pre></td></tr></table></figure></li><li><p>推送到GitHub</p><figure class="highlight 1c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs 1c">$ hexo clean <span class="hljs-meta">&amp;&amp; hexo deploy</span><br></code></pre></td></tr></table></figure></li></ol><section class="footnotes"><h2>参考</h2><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span><a href="https://hexo.fluid-dev.com/docs/">Hexo Fluid 用户手册</a><a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:2" class="footnote-text"><span><a href="https://hexo.fluid-dev.com/docs/">在 GitHub Pages 上部署 Hexo</a><a href="#fnref:2" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
